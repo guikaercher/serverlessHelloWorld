@@ -7,5 +7,5 @@
 #### run this cmd to save credentials:
 serverless config credentials --provider aws --key AKIAJ5SKMYKEYHERE --secret +Jmr/EXAMPLE0SECRET123
 
-#### post to route you can find at your API GW service, example:
+#### Send a GET request to the route you can find at your API GW service, example:
 https://00123wwweasd.execute-api.us-east-1.amazonaws.com/dev
